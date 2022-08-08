@@ -1,0 +1,35 @@
+#tit1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #5E5099;
+    font-size: 20px;
+}
+#tit2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #BD9459;
+    font-size: 20px; 
+}
+.dis1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: #720000;
+    font-weight: larger;
+}
+.dis2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color: #406B65;
+    font-weight: larger;
+}
+.dis3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: #D27E87;
+    font-weight: larger;
+}
+#container {
+    width: 1000px;
+    height: 1000px;
+    background-color: #C0DEBA;
+    margin-left: auto;
+    margin-right: auto;
+}
