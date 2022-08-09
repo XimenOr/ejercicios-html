@@ -1,0 +1,18 @@
+#tit1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #9C858A;
+    font-size: 40px;
+}
+.dis1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: medium;
+    color: #41858A;
+}
+#container {
+    width: 800px;
+    height: 300px;
+    background-color: #3ACCFC;
+    margin-left: auto;
+    margin-right: auto;
+}
