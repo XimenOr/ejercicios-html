@@ -11,7 +11,7 @@
 ### :smiley: Indentación a las codificaciones 
 ### :relaxed: Implementación de comentarios
 ### :wink: Implementación de imágenes
-### :grinning: Validado por el software W3S
+### :grinning: Validado por el software W3C
 # HTML V3
 ### :fallen_leaf: Para esta tercera versión, generamos un copia de la segunda versión para hacerle las siguientes modificaciones:
 ### :purple_heart: Creación de codificaciones en CSS para cada ejercicio
@@ -19,4 +19,4 @@
 ### :heartpulse: Implementación de la etiqueta div (para crear un contenedor y darle diseño)
 ### :yellow_heart: Implementación de color 
 ### :green_heart: Cambios en los tamaños y estilos de las fuentes 
-### :two_hearts: Validado por el software W3S 
+### :two_hearts: Validado por el software W3C 
