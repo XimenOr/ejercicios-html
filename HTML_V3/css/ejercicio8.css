@@ -1,0 +1,41 @@
+#tit1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #4C3B69;
+    font-size: 30px;
+}
+#tit2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #964858;
+    font-size: 30px; 
+}
+#tit3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #855C34;
+}
+.dis1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+    color: #406B65;
+    font-weight: larger;
+}
+.dis2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+    color: #505899;
+    font-weight: larger;
+}
+.dis3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+    color: #BDA744;
+    font-weight: larger;
+}
+#container {
+    width: 800px;
+    height: 900px;
+    background-color: #AFCCDB;
+    margin-left: auto;
+    margin-right: auto;
+}
